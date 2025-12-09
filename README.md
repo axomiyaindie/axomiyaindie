@@ -64,8 +64,8 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 ---
 
 ## 🔥 Work (In Progress)
-- 🤖 AxomiyaGPT– AI that  answer & speaks in proper Assamese Language
-- 🧠 Asomiya Quiz – 1k+ students already signed-up
+- 🤖 AxomiyaGPT – AI that answers and speaks proper Assamese
+- 🧠 Asomiya Quiz – 1,000+ students already signed up
 - 📚 Education Platform – Equal access to resources for Assam
 - 🎮 Interactive Learning Game – Skill-building through play
 
