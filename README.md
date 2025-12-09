@@ -84,6 +84,22 @@ If you're building something meaningful with:
 
 ---
 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="YOUR_X_URL" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
+  </a>
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</p>
+
+---
+
 ## 📊 Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
 
