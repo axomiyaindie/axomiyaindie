@@ -63,9 +63,12 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=700&lines=No+Noise.+Only+Output.;AI+for+Access.;For+Assam.+For+the+Future." />
-</h2>
+## 🔥 Work (In Progress)
+- 🤖 AI Tool for Students – Language-first learning assistant (Assamese + English)
+- 📚 Education Platform – Equal access to resources for Assam
+- 🎮 Interactive Learning Game – Skill-building through play
+
+---
 
 ## 🤝 Collaborate
 
@@ -84,11 +87,12 @@ If you're building something meaningful with:
 ![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
 
 ---
-## 🔥 Work (In Progress)
-- 🤖 AI Tool for Students – Language-first learning assistant (Assamese + English)
-- 📚 Education Platform – Equal access to resources for Assam
-- 🎮 Interactive Learning Game – Skill-building through play
-
-
 
 ✨ **Using AI and technology to ensure every mind in Assam has equal access to knowledge.**
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=700&lines=No+Noise.+Only+Output.;AI+for+Access.;For+Assam.+For+the+Future." />
+</h2>
+
