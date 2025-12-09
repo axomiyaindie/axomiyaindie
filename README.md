@@ -16,7 +16,7 @@
 
 ## 🚀 About
 
-Axomiya Indie is an **indie developer** from Assam, focused on building AI-first tools, systems, and education platforms that deliver equal access to high-quality information.
+Axomiya Indie is an Assam-based indie developer building AI-first tools and education platforms to make high-quality information universally accessible in both Assamese and English
 
 🎯 **লক্ষ্য**
 > **সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
