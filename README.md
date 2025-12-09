@@ -41,7 +41,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 * 🎮 Interactive learning games
 * 📊 Data + Information platforms
 
-> হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাওঁ।
+> হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাবলৈ লক্ষ্য লৈ আগবাঢ়ি আছোঁ।
 
 ---
 
@@ -84,6 +84,11 @@ If you're building something meaningful with:
 ![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
 
 ---
+## 🔥 Work (In Progress)
+- 🤖 AI Tool for Students – Language-first learning assistant (Assamese + English)
+- 📚 Education Platform – Equal access to resources for Assam
+- 🎮 Interactive Learning Game – Skill-building through play
+
 
 
 ✨ **Using AI and technology to ensure every mind in Assam has equal access to knowledge.**
