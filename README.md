@@ -20,7 +20,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 🎯 **লক্ষ্য**
 > I was once a student. Now I build AI so the next student gets more opportunities than I ever did.
-**সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
+> **সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
 
 ---
 
