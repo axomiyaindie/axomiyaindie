@@ -93,7 +93,7 @@ If you're building something meaningful with:
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Social 
 
 * GitHub: [https://github.com/axomiyaindie](https://github.com/axomiyaindie)
 * Projects: Coming soon
