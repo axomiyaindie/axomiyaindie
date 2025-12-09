@@ -10,14 +10,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-> **AI × Access × Assam.**
 > **AI আৰু টেকৰ জৰিয়তে অসমত সকলোলৈ সমানভাৱে তথ্য পোহৰাবলৈ কাম কৰি আছোঁ — যাতে কোনো এজনো পিছ পৰি নাযায়।**
 
 ---
 
 ## 🚀 About
 
-Axomiya Indie is an **Indie Dev from Assam**, focused on building **AI-first tools, automation systems, and education platforms** that deliver **equal access to high‑quality information**.
+Axomiya Indie is an **Indie dev from Assam**, focused on building **AI-first tools, automation systems, and education platforms** that deliver **equal access to high‑quality information**.
 
 🎯 **লক্ষ্য**
 > **সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
@@ -76,8 +75,6 @@ If you're building something meaningful with:
 * Education
 * Community tech
 * Open source
-
-Let’s connect.
 
 **অসমৰ বাবে, ভৱিষ্যতৰ বাবে।**
 
