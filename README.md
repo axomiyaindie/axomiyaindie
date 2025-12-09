@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E1FF&center=true&vCenter=true&width=720&lines=Axomiya+Indie;AI+%7C+Automation+%7C+Access;Building+for+Assam%2C+for+the+Future" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E1FF&center=true&vCenter=true&width=720&lines=Axomiya+Indie;Building+for+Assam%2C+for+the+Future" />
 </h1>
 
 <div align="center">
