@@ -96,7 +96,6 @@ If you're building something meaningful with:
 ## 🌍 Connect With Me
 
 * GitHub: [https://github.com/axomiyaindie](https://github.com/axomiyaindie)
-* Identity: Indie AI Brand
 * Projects: Coming soon
 * Mission: Always live
 
