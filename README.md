@@ -81,24 +81,9 @@ If you're building something meaningful with:
 ---
 
 ## 📊 Stats  
-
-**Overall Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie&show_icons=true&theme=transparent)
-
-**Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie&layout=compact&theme=transparent)
-
-**Streak**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
 
 ---
 
-## 🌍 Social 
-
-* GitHub: [https://github.com/axomiyaindie](https://github.com/axomiyaindie)
-* Projects: Coming soon
-* Mission: Always live
-
----
 
 ✨ **Building with AI & tech to give Assam equal access to the best information — no dream left behind.**
