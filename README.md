@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
- <img src="https://img.shields.io/badge/Indie%20Developer-10A37F?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/Indie%20Dev-10A37F?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Equal%20Access%20for%20All-7C4DFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Assam--First-FF4DA6?style=for-the-badge" />
   <br/>
