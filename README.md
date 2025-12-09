@@ -21,13 +21,12 @@ Axomiya Indie is an **indie AI brand from Assam**, focused on building **AI-firs
 
 এইটো এটা **অসমীয়া Indie AI Brand**, যাৰ লক্ষ্য হৈছে **AI, automation আৰু শিক্ষামূলক প্লাটফৰ্মৰ জৰিয়তে সকলোলৈ সমান তথ্যৰ সুবিধা পোহৰাই দিয়া**।
 
-🎯 **Mission / লক্ষ্য**
-Equal access for everyone. Nobody should be left behind.
+🎯 **লক্ষ্য**
 **সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
 
 ---
 
-## 🛠 Tech Stack | মই ব্যৱহাৰ কৰা টেক
+## 🛠 Tech Stack
 
 * JavaScript, HTML, CSS
 * React, Tailwind
@@ -37,7 +36,7 @@ Equal access for everyone. Nobody should be left behind.
 
 ---
 
-## 💡 What I Build | মই কি বনাওঁ
+## 💡মই কি বনাওঁ
 
 * 🤖 AI-powered tools
 * 🌐 Educational platforms
@@ -45,12 +44,11 @@ Equal access for everyone. Nobody should be left behind.
 * 🎮 Interactive learning games
 * 📊 Data + Information platforms
 
-**Goal:** Build once, impact thousands.
-**লক্ষ্য:** একবাৰ বনাওঁ, হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাওঁ।
+**Goal:** একবাৰ বনাওঁ, হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাওঁ।
 
 ---
 
-## 🧠 Philosophy | মোৰ চিন্তাধাৰা
+## 🧠 Philosophy
 
 > **Real output > empty talk.**
 > **Code, not noise.**
@@ -95,10 +93,6 @@ Let’s connect. I love building in public.
 **Overall Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie\&layout=compact\&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie\&theme=transparent)
-
 **Most Used Languages**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
 
@@ -113,12 +107,12 @@ Let’s connect. I love building in public.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie\&theme=transparent)
 
-**Assamese note / অসমীয়া টোকা:**
-axomiyaindie ঠাইত নিজা GitHub username লিখিবা, তেন্তে তলৰ ছবিবোৰে আপোনাৰ বাস্তৱ stats দেখুৱাব।
+**Assamese note**
+Axomiyaindie ঠাইত নিজা GitHub username লিখিবা, তেন্তে তলৰ ছবিবোৰে আপোনাৰ বাস্তৱ stats দেখুৱাব।
 
 ---
 
-## 🌍 Connect With the Brand
+## 🌍 Connect With Me
 
 * GitHub: [https://github.com/axomiyaindie](https://github.com/axomiyaindie)
 * Identity: Indie AI Brand
@@ -128,4 +122,3 @@ axomiyaindie ঠাইত নিজা GitHub username লিখিবা, ত�
 ---
 
 ✨ **Building with AI & tech to give Assam equal access to the best information — no dream left behind.**
-✨ **AI আৰু টেকৰ শক্তিৰে অসমত কোনো এজনো পিছ পৰি নাযাওক।**
