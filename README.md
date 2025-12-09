@@ -84,7 +84,7 @@ If you're building something meaningful with:
 
 ---
 
-## 🤝 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
