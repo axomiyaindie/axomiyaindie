@@ -38,7 +38,6 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 * 🤖 AI-powered tools
 * 🌐 Educational platforms
-* ⚡ Automation systems
 * 🎮 Interactive learning games
 * 📊 Data + Information platforms
 
