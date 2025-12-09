@@ -19,8 +19,8 @@
 Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information universally accessible in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
 
 🎯 **লক্ষ্য**
-> I was once a student. Now I build AI so the next student gets more opportunities than I ever did.
-> **সকলোৱে সমান সুযোগ পাৱঁক — কোনো এজনো পিছ পৰি নাযাওক।**
+> **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰজনে আগবাঢ়ে।
+সমান সুযোগ, সকলোৰে বাবে।**
 
 ---
 
