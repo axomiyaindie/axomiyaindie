@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Indie%20AI%20Brand-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-7C4DFF?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Indie%20Developer-10A37F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Equal%20Access%20for%20All-7C4DFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Assam--First-FF4DA6?style=for-the-badge" />
   <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
