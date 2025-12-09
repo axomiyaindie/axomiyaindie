@@ -1,15 +1,25 @@
-# 👋 Hi, I'm an Indie AI Builder from Assam
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E1FF&center=true&vCenter=true&width=720&lines=Axomiya+Indie;AI+%7C+Automation+%7C+Access;Building+for+Assam%2C+for+the+Future" />
+</h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Indie%20AI%20Brand-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Assam--First-FF4DA6?style=for-the-badge" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 > **AI × Access × Assam | No dream left behind**
 > **AI আৰু টেকৰ জৰিয়তে অসমত সকলোলৈ সমানভাৱে তথ্য পোহৰাবলৈ কাম কৰি আছোঁ — যাতে কোনো এজনো পিছ পৰি নাযায়।**
 
 ---
 
-## 🚀 About Me | মোৰ বিষয়ে
+## 🚀 About the Brand | Brand Profile
 
-I am an **indie developer, AI builder, and automation enthusiast** working to make **high‑quality information accessible to everyone in Assam**.
+Axomiya Indie is an **indie AI brand from Assam**, focused on building **AI-first tools, automation systems, and education platforms** that deliver **equal access to high‑quality information**.
 
-মই এজন **indie developer, AI builder আৰু automation enthusiast**, যি **অসমত সকলোৰে বাবে সমান তথ্য-অধিকাৰ** সৃষ্টি কৰাৰ লক্ষ্য লৈ কাম কৰি আছে।
+এইটো এটা **অসমীয়া Indie AI Brand**, যাৰ লক্ষ্য হৈছে **AI, automation আৰু শিক্ষামূলক প্লাটফৰ্মৰ জৰিয়তে সকলোলৈ সমান তথ্যৰ সুবিধা পোহৰাই দিয়া**।
 
 🎯 **Mission / লক্ষ্য**
 Equal access for everyone. Nobody should be left behind.
@@ -42,6 +52,9 @@ Equal access for everyone. Nobody should be left behind.
 
 ## 🧠 Philosophy | মোৰ চিন্তাধাৰা
 
+> **Real output > empty talk.**
+> **Code, not noise.**
+
 > *Technology should not create gaps — it should remove them.*
 > *টেকন’লজীয়ে দূৰত্ব বঢ়াব নালাগে — দূৰত্ব কমাব লাগে।*
 
@@ -55,6 +68,10 @@ Equal access for everyone. Nobody should be left behind.
 * Local to global impact
 
 ---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=700&lines=No+Noise.+Only+Output.;AI+for+Access.;For+Assam.+For+the+Future." />
+</h2>
 
 ## 🤝 Let’s Collaborate | একেলগে কাম কৰা আহক
 
@@ -76,31 +93,35 @@ Let’s connect. I love building in public.
 > 🔁 Replace **axomiyaindie** with your real GitHub username.
 
 **Overall Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie\&layout=compact\&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie\&theme=transparent)
 
 **Most Used Languages**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie\&layout=compact\&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie\&theme=transparent)
 
 **Contribution Streak**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
 
-```md
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent)
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie\&layout=compact\&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie\&theme=transparent)
 
 **Assamese note / অসমীয়া টোকা:**
 axomiyaindie ঠাইত নিজা GitHub username লিখিবা, তেন্তে তলৰ ছবিবোৰে আপোনাৰ বাস্তৱ stats দেখুৱাব।
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Connect With the Brand
 
-* GitHub: You’re already here 😉
+* GitHub: [https://github.com/axomiyaindie](https://github.com/axomiyaindie)
+* Identity: Indie AI Brand
 * Projects: Coming soon
 * Mission: Always live
 
