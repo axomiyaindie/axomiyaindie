@@ -80,16 +80,16 @@ If you're building something meaningful with:
 
 ---
 
-## 📊 Dynamic GitHub Stats | GitHub ৰ Live Stats
+## 📊 Stats  
 
-**Overall Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
+**Overall Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie&show_icons=true&theme=transparent)
 
-**Most Used Languages**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axomiyaindie&layout=compact&theme=transparent)
 
-**Contribution Streak**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axomiyaindie\&show_icons=true\&theme=transparent)
+**Streak**  
+![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
 
 ---
 
