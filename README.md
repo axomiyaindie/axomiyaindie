@@ -41,7 +41,7 @@ Axomiya Indie is an **Indie dev from Assam**, focused on building **AI-first too
 * 🎮 Interactive learning games
 * 📊 Data + Information platforms
 
-> ** হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাওঁ।
+> হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাওঁ।
 
 ---
 
