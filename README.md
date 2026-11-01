@@ -102,7 +102,7 @@ If you're building something meaningful with:
 
 ## 📊 Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 ---
