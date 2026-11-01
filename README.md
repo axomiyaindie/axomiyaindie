@@ -3,14 +3,14 @@
 </h1>
 
 <div align="center">
- <img src="https://img.shields.io/badge/Indie%20Dev-10A37F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Indie%20Dev-10A37F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Equal%20Access%20for%20All-7C4DFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Assam--First-FF4DA6?style=for-the-badge" />
   <br/>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-> **AI আৰু টেকৰ জৰিয়তে অসমত সকলোলৈ সমানভাৱে তথ্য পোহৰাবলৈ কাম কৰি আছোঁ — যাতে কোনো এজনো পিছ পৰি নাযায়।**
+> **AI আৰু টেকৰ জৰিয়তে অসমত সকলোলৈ সমানভাৱে তথ্য পোহৰাবলৈ কাম কৰি আছোঁ — যাতে কোনো এজনো পিছ পৰি নাযায়।**
 
 ---
 
@@ -19,27 +19,27 @@
 Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information universally accessible in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
 
 🎯 **লক্ষ্য**
-> **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰজনে আগবাঢ়ে।
-সমান সুযোগ, সকলোৰে বাবে।**
+> **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰজনে আগবাঢ়ে।**
+> **সমান সুযোগ, সকলোৰে বাবে।**
 
 ---
 
 ## 🛠 Tech Stack
 
-* JavaScript, HTML, CSS
-* React, Tailwind
-* Node.js, Firebase
-* Python, AI Tools, Automation
-* GitHub, Vercel, Netlify
+- JavaScript, HTML, **CSS**
+- React, Tailwind
+- Node.js, Firebase
+- Python, AI Tools, Automation
+- GitHub, Vercel, Netlify
 
 ---
 
-## 💡মই কি বনাওঁ
+## 💡 মই কি বনাওঁ
 
-* 🤖 AI-powered tools
-* 🌐 Educational platforms
-* 🎮 Interactive learning games
-* 📊 Data + Information platforms
+- 🤖 AI-powered tools
+- 🌐 Educational platforms
+- 🎮 Interactive learning games
+- 📊 Data + Information platforms
 
 > হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাবলৈ লক্ষ্য লৈ আগবাঢ়ি আছোঁ।
 
@@ -56,10 +56,10 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 ## 📍 Focus Area
 
-* Assam-first products
-* Accessibility & digital inclusion
-* Student & youth empowerment
-* Local to global impact
+- Assam-first products
+- Accessibility & digital inclusion
+- Student & youth empowerment
+- Local to global impact
 
 ---
 
@@ -75,10 +75,10 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 If you're building something meaningful with:
 
-* AI
-* Education
-* Community tech
-* Open source
+- AI
+- Education
+- Community tech
+- Open source
 
 **অসমৰ বাবে, ভৱিষ্যতৰ বাবে।**
 
@@ -101,7 +101,9 @@ If you're building something meaningful with:
 ---
 
 ## 📊 Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=axomiyaindie&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -112,4 +114,3 @@ If you're building something meaningful with:
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=700&lines=No+Noise.+Only+Output.;AI+for+Access.;For+Assam.+For+the+Future." />
 </h2>
-
