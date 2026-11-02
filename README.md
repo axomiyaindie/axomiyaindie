@@ -35,7 +35,6 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
-  <img src="https://img.shields.io/badge/Automation-4B32C3?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
   <br/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
