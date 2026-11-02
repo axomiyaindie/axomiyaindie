@@ -14,38 +14,50 @@
 
 ---
 
-## ✍️ About
+## About
 
 Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information universally accessible in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
 
-🎯 **লক্ষ্য**
+**লক্ষ্য**
 > **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰজনে আগবাঢ়ে।**
 > **সমান সুযোগ, সকলোৰে বাবে।**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- JavaScript, HTML, **CSS**
-- React, Tailwind
-- Node.js, Firebase
-- Python, AI Tools, Automation
-- GitHub, Vercel, Netlify
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Automation-4B32C3?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
 
 ---
 
-## 💡 মই কি বনাওঁ
+## মই কি বনাওঁ
 
-- 🤖 AI-powered tools
-- 🌐 Educational platforms
-- 🎮 Interactive learning games
-- 📊 Data + Information platforms
+- AI-powered tools
+- Educational platforms
+- Interactive learning games
+- Data + Information platforms
 
 > হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাবলৈ লক্ষ্য লৈ আগবাঢ়ি আছোঁ।
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > **Real output > empty talk.**
 > **Code, not noise.**
@@ -54,7 +66,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 ---
 
-## 📍 Focus Area
+## Focus Area
 
 - Assam-first products
 - Accessibility & digital inclusion
@@ -63,15 +75,15 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 ---
 
-## 🔥 Work (In Progress)
-- 🤖 AxomiyaGPT – AI that answers and speaks proper Assamese
-- 🧠 Asomiya Quiz – 1,000+ students already signed up
-- 📚 Education Platform – Equal access to resources for Assam
-- 🎮 Interactive Learning Game – Skill-building through play
+## Work (In Progress)
+- AxomiyaGPT – AI that answers and speaks proper Assamese
+- Asomiya Quiz – 1,000+ students already signed up
+- Education Platform – Equal access to resources for Assam
+- Interactive Learning Game – Skill-building through play
 
 ---
 
-## 🤝 Collaborate
+## Collaborate
 
 If you're building something meaningful with:
 
@@ -84,13 +96,13 @@ If you're building something meaningful with:
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/axomiyaindie/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://X.com/AxomiyaIndie" target="_blank">
+  <a href="https://x.com/AxomiyaIndie" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
   <a href="https://www.facebook.com/share/17gMFEg3Y6/" target="_blank">
@@ -100,14 +112,14 @@ If you're building something meaningful with:
 
 ---
 
-## 📊 Stats  
+## Stats  
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
-✨ **Using AI and technology to ensure every mind in Assam has equal access to knowledge.**
+**Using AI and technology to ensure every mind in Assam has equal access to knowledge.**
 
 ---
 
