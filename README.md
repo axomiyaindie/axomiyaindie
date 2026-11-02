@@ -6,20 +6,18 @@
   <img src="https://img.shields.io/badge/Indie%20Dev-10A37F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Equal%20Access%20for%20All-7C4DFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Assam--First-FF4DA6?style=for-the-badge" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
-> **AI আৰু টেকৰ জৰিয়তে অসমত সকলোলৈ সমানভাৱে তথ্য পোহৰাবলৈ কাম কৰি আছোঁ — যাতে কোনো এজনো পিছ পৰি নাযায়।**
+> **AI আৰু টেকৰ জৰিয়তে অসমত সকলোৰে ওচৰলৈ সমানেৰে তথ্য পৌঁছাই দিবলৈ কাম কৰি আছোঁ — যাতে কোনেও পিছ পৰি নাথাকে।**
 
 ---
 
 ## About
 
-Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information universally accessible in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
+Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information accessible to everyone in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
 
 **লক্ষ্য**
-> **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰজনে আগবাঢ়ে।**
+> **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰ-ছাত্ৰীয়ে আগবাঢ়িব পাৰে।**
 > **সমান সুযোগ, সকলোৰে বাবে।**
 
 ---
@@ -51,9 +49,9 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 - AI-powered tools
 - Educational platforms
 - Interactive learning games
-- Data + Information platforms
+- Data and information platforms
 
-> হাজাৰ জনৰ জীৱনত প্ৰভাৱ পেলাবলৈ লক্ষ্য লৈ আগবাঢ়ি আছোঁ।
+> হাজাৰ হাজাৰ মানুহৰ জীৱনত প্ৰভাৱ পেলোৱাৰ লক্ষ্যৰে আগবাঢ়ি আছোঁ।
 
 ---
 
@@ -62,22 +60,22 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 > **Real output > empty talk.**
 > **Code, not noise.**
 
-> *Technology should not create gaps — it should remove them.*
+> *Technology should not create gaps. It should remove them.*
 
 ---
 
-## Focus Area
+## Focus Areas
 
 - Assam-first products
-- Accessibility & digital inclusion
-- Student & youth empowerment
-- Local to global impact
+- Accessibility and digital inclusion
+- Student and youth empowerment
+- Local-to-global impact
 
 ---
 
 ## Work (In Progress)
-- AxomiyaGPT – AI that answers and speaks proper Assamese
-- Asomiya Quiz – 1,000+ students already signed up
+- AxomiyaGPT – AI that understands and speaks proper Assamese
+- Asomiya Quiz – 1,000+ students have already signed up
 - Education Platform – Equal access to resources for Assam
 - Interactive Learning Game – Skill-building through play
 
@@ -85,7 +83,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 
 ## Collaborate
 
-If you're building something meaningful with:
+If you're building something meaningful in:
 
 - AI
 - Education
@@ -112,7 +110,7 @@ If you're building something meaningful with:
 
 ---
 
-## Stats  
+## Stats
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
