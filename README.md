@@ -47,7 +47,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 | **Learning Game** | Skill-building through play | `[~] build  [ ] test  [ ] live` |
 
 ```text
-legend:  [x] done    [~] in progress    [ ] not yet
+Status:  [x] = done    [~] = in progress    [ ] = not yet
 ```
 
 > হাজাৰ হাজাৰ মানুহৰ জীৱনত প্ৰভাৱ পেলোৱাৰ লক্ষ্যৰে আগবাঢ়ি আছোঁ।
