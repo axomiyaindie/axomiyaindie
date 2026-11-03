@@ -17,7 +17,7 @@
 ```text
 ┌─────────────────────────────────────────────┐
 │  $ whoami                                   │
-│  > axomiya-indie  |  indie dev  │           │
+│  > axomiya-indie  |  indie dev              │
 │                                             │
 │  $ cat mission.txt                          │
 │  > equal access to knowledge, for everyone  │
