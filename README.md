@@ -14,28 +14,66 @@
 
 <p align="center">────────────  ◆  ────────────</p>
 
-## ◆ About
+```text
+┌─────────────────────────────────────────────┐
+│  $ whoami                                   │
+│  > axomiya-indie  |  indie dev  |  Assam    │
+│                                             │
+│  $ cat mission.txt                          │
+│  > equal access to knowledge, for everyone  │
+│                                             │
+│  $ ./build --for assam --with ai            │
+│  > status: building . . . . . . .           │
+└─────────────────────────────────────────────┘
+```
+
+## About
 
 Axomiya Indie is an Assam-based independent developer building AI-first tools and education platforms to make high-quality information accessible to everyone in both Assamese and English. The mission is simple: remove language, location, and resource barriers using technology.
 
-## ◆ লক্ষ্য
+## লক্ষ্য
 
 > **ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰ-ছাত্ৰীয়ে আগবাঢ়িব পাৰে।**
 > **সমান সুযোগ, সকলোৰে বাবে।**
 
-## ◆ মই কি বনাওঁ
+## মই কি বনাওঁ
 
-| Project | What it is | Status |
+| Project | What it is | Stage |
 | :--- | :--- | :--- |
-| **PrepBuddy** | Exam preparation platform for students in Assam | Closed testing |
-| **AxomiyaGPT** | AI that understands and speaks proper Assamese | In progress |
-| **Asomiya Quiz** | Quiz platform, 1,000+ students signed up | Live |
-| **Education Platform** | Equal access to learning resources | In progress |
-| **Learning Game** | Skill-building through play | In progress |
+| **PrepBuddy** | Exam preparation platform for students in Assam | `[x] build  [x] test  [ ] live` |
+| **AxomiyaGPT** | AI that understands and speaks proper Assamese | `[~] build  [ ] test  [ ] live` |
+| **Asomiya Quiz** | Quiz platform, 1,000+ students signed up | `[x] build  [x] test  [x] live` |
+| **Education Platform** | Equal access to learning resources | `[~] build  [ ] test  [ ] live` |
+| **Learning Game** | Skill-building through play | `[~] build  [ ] test  [ ] live` |
+
+```text
+legend:  [x] done    [~] in progress    [ ] not yet
+```
 
 > হাজাৰ হাজাৰ মানুহৰ জীৱনত প্ৰভাৱ পেলোৱাৰ লক্ষ্যৰে আগবাঢ়ি আছোঁ।
 
-## ◆ Tech Stack
+## How I Work
+
+```text
++----------+     +----------+     +----------+     +----------+
+|   IDEA   | --> |  BUILD   | --> |   TEST   | --> |   SHIP   |
++----------+     +----------+     +----------+     +----------+
+      ^                                                  |
+      |                                                  |
+      +---------------- LEARN & IMPROVE -----------------+
+```
+
+From a git push to a live site, with no manual steps:
+
+```mermaid
+flowchart LR
+    A[git push] --> B[GitHub Actions]
+    B --> C[Build]
+    C --> D[Deploy]
+    D --> E[Live for everyone]
+```
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -75,7 +113,7 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-## ◆ Philosophy
+## Philosophy
 
 ```text
 Real output  >  empty talk.
@@ -84,14 +122,14 @@ Code, not noise.
 
 > *Technology should not create gaps. It should remove them.*
 
-## ◆ Focus
+## Focus
 
 - ▸ Assam-first products
 - ▸ Accessibility and digital inclusion
 - ▸ Student and youth empowerment
 - ▸ Local-to-global impact
 
-## ◆ Collaborate
+## Collaborate
 
 Building something meaningful in **AI**, **education**, **community tech**, or **open source**? Let's talk.
 
@@ -114,6 +152,10 @@ Building something meaningful in **AI**, **education**, **community tech**, or *
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
+
+```text
+  < made with code, curiosity and chai, in Assam >
+```
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7C4DFF&center=true&vCenter=true&width=700&lines=No+Noise.+Only+Output.;AI+for+Access.;For+Assam.+For+the+Future." alt="Tagline" />
