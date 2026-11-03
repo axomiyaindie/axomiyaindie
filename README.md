@@ -55,12 +55,15 @@ legend:  [x] done    [~] in progress    [ ] not yet
 ## How I Work
 
 ```text
-+----------+     +----------+     +----------+     +----------+
-|   IDEA   | --> |  BUILD   | --> |   TEST   | --> |   SHIP   |
-+----------+     +----------+     +----------+     +----------+
-      ^                                                  |
-      |                                                  |
-      +---------------- LEARN & IMPROVE -----------------+
++----------+    +----------+    +----------+    +----------+    +----------+
+|   IDEA   | -> | VALIDATE | -> |  BUILD   | -> |   TEST   | -> |   SHIP   |
+|          |    | with AI  |    |AI assist |    |          |    |          |
++----------+    +----------+    +----------+    +----------+    +----------+
+      ^                                                               |
+      |                                                               |
+      +----------------------- LEARN & IMPROVE -----------------------+
+
+AI assistants:  Claude  |  ChatGPT  |  Gemini  |  DeepSeek | Grok 
 ```
 
 From a git push to a live site, with no manual steps:
@@ -80,7 +83,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
