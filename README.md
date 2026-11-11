@@ -42,7 +42,6 @@ Axomiya Indie is an Assam-based independent developer building AI-first tools an
 | :--- | :--- | :--- |
 | **PrepBuddy** | Exam preparation platform for students in Assam | `[x] build  [x] test  [ ] live` |
 | **AxomiyaGPT** | AI that understands and speaks proper Assamese | `[~] build  [ ] test  [ ] live` |
-| **Asomiya Quiz** | Quiz platform, 1,000+ students signed up | `[x] build  [x] test  [x] live` |
 | **Education Platform** | Equal access to learning resources | `[~] build  [ ] test  [ ] live` |
 | **Learning Game** | Skill-building through play | `[~] build  [ ] test  [ ] live` |
 
