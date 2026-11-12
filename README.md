@@ -13,7 +13,7 @@ Assam-based indie developer building AI-first tools and education platforms, so 
 
 ## Open Source
 
-**[Axomiya IT Labs](https://axomiya-it-labs.github.io/)** (Open-source developer)
+**[Axomiya IT Labs](https://axomiya-it-labs.github.io/)** 
 Free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
 
 ## Focus
