@@ -18,10 +18,6 @@ Assam-based indie developer building AI-first tools and education platforms, so 
 - Student and youth empowerment
 - Local-to-global impact
 
-## Philosophy
-
-Real output over empty talk. Technology should not create gaps. It should remove them.
-
 ## Collaborate
 
 Building something in AI, education, community tech or open source? Let's talk.
