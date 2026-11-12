@@ -1,34 +1,23 @@
-Assam-based indie developer building AI-first tools and education platforms, so everyone can access quality information in both Assamese and English.
+Hey, I'm an indie developer from Assam.
+
+I'm building AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
 
 > ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰ-ছাত্ৰীয়ে আগবাঢ়িব পাৰে।
 
-## Projects
+If you're building something in AI, education, community tech or open source, I'd love to collaborate. You can reach me on [LinkedIn](https://www.linkedin.com/in/axomiyaindie/), [X](https://x.com/AxomiyaIndie) or [Facebook](https://www.facebook.com/share/17gMFEg3Y6/).
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| PrepBuddy | Exam preparation platform for students in Assam | Testing |
-| AxomiyaGPT | AI that understands and speaks proper Assamese | Building |
-| Education Platform | Equal access to learning resources | Building |
-| Learning Game | Skill-building through play | Building |
+Building
 
-## Founder of
+* PrepBuddy - Exam preparation platform for students in Assam.
+* AxomiyaGPT - AI that understands and speaks proper Assamese.
+* Education Platform - Equal access to learning resources.
+* Learning Game - Skill-building through play.
 
-**[Axomiya IT Labs](https://axomiya-it-labs.github.io/)**: free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
+Founder of
 
-## Focus
+* [Axomiya IT Labs](https://axomiya-it-labs.github.io/) - Free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
 
-- Assam-first products
-- Accessibility and digital inclusion
-- Student and youth empowerment
-- Local-to-global impact
-
-## Collaborate
-
-Building something in AI, education, community tech or open source? Let's talk.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/axomiyaindie/) · [X](https://x.com/AxomiyaIndie) · [Facebook](https://www.facebook.com/share/17gMFEg3Y6/) · [Blog](https://axomiyaindie.github.io/)
+Focus: Assam-first products, accessibility and digital inclusion, student and youth empowerment, local-to-global impact.
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
