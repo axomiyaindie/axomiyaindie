@@ -11,9 +11,9 @@ Assam-based indie developer building AI-first tools and education platforms, so 
 | Education Platform | Equal access to learning resources | Building |
 | Learning Game | Skill-building through play | Building |
 
-## Creator of 
+## Founder of
 
-**[Axomiya IT Labs](https://axomiya-it-labs.github.io/)** a free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
+**[Axomiya IT Labs](https://axomiya-it-labs.github.io/)**: free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
 
 ## Focus
 
