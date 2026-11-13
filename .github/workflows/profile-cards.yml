@@ -1,0 +1,50 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  push:
+    paths:
+      - ".github/workflows/profile-cards.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.STREAK_STATS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 6
+          AUTO_PUSH: false
+          THEME: "github_dark"
+
+      - name: Copy cards into profile/
+        run: |
+          mkdir -p profile
+          if [ -d profile-repository ]; then
+            cp -f profile-repository/*.svg profile/ 2>/dev/null || true
+            rm -rf profile-repository
+          fi
+
+      - name: Commit profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: update profile cards (languages + stats)"
+          git pull --rebase origin main
+          git push
