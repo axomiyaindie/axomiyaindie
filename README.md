@@ -1,12 +1,8 @@
-Hey, I'm an indie developer from Assam.
-
-<img align="left" src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
+Hi, <img align="left" src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
 
 <br clear="left"/>
 
-I'm build AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
-
-> ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰ-ছাত্ৰীয়ে আগবাঢ়িব পাৰে।
+I build AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
 
 If you're building something in AI, education, community tech or open source, I'd love to collaborate. You can reach me on [LinkedIn](https://www.linkedin.com/in/axomiyaindie/), [X](https://x.com/AxomiyaIndie) or [Facebook](https://www.facebook.com/share/17gMFEg3Y6/).
 
