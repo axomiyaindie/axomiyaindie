@@ -24,11 +24,15 @@ Focus: Assam-first products, accessibility and digital inclusion, student and yo
 
 ## GitHub Activity
 
-<img align="left" src="./profile/stats.svg" alt="GitHub Stats" />
+<a href="https://git.io/streak-stats"><img align="left" src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <br clear="left"/>
 
 <img align="left" src="./profile/profile-details.svg" alt="Profile Details" />
+
+<br clear="left"/>
+
+<img align="left" src="./profile/stats.svg" alt="GitHub Stats" />
 
 <br clear="left"/>
 
@@ -38,10 +42,6 @@ Focus: Assam-first products, accessibility and digital inclusion, student and yo
 <br clear="left"/>
 
 <img align="left" src="./profile/productive-time.svg" alt="Productive Time" />
-
-<br clear="left"/>
-
-<a href="https://git.io/streak-stats"><img align="left" src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <br clear="left"/>
 
