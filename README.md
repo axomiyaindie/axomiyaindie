@@ -1,5 +1,5 @@
-Hi, <img align="left" src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
-
+<img align="left" src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
+Hi, 
 <br clear="left"/>
 
 I build AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
