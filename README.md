@@ -4,7 +4,7 @@ Hey, I'm an indie developer from Assam.
 
 <br clear="left"/>
 
-I'm building AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
+I'm build AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
 
 > ছাত্ৰ আছিলোঁ। এতিয়া AI গঢ়ি আছোঁ — যাতে আন ছাত্ৰ-ছাত্ৰীয়ে আগবাঢ়িব পাৰে।
 
@@ -19,8 +19,6 @@ Building
 Founder of
 
 * [Axomiya IT Labs](https://axomiya-it-labs.github.io/) - Free, open-source tools and developer platforms for Assam. [GitHub](https://github.com/Axomiya-IT-Labs)
-
-Focus: Assam-first products, accessibility and digital inclusion, student and youth empowerment, local-to-global impact.
 
 ## GitHub Activity
 
