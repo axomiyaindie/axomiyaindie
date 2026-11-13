@@ -1,8 +1,8 @@
 Hey, I'm an indie developer from Assam.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
-</p>
+<img align="left" src="https://komarev.com/ghpvc/?username=axomiyaindie&label=Profile%20Views&color=00E1FF&style=for-the-badge" alt="Profile Views" />
+
+<br clear="left"/>
 
 I'm building AI-first tools and education platforms so everyone can access quality information in both Assamese and English. I write guides and opinions on tech on my blog [here](https://axomiyaindie.github.io/), everything I learned through trial and error.
 
@@ -22,11 +22,13 @@ Founder of
 
 Focus: Assam-first products, accessibility and digital inclusion, student and youth empowerment, local-to-global impact.
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="left" src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-<p align="center">
-  <img src="./profile/repos-per-language.svg" alt="Repos per Language" />
-  <img src="./profile/most-commit-language.svg" alt="Most Commit Language" />
-</p>
+<br clear="left"/>
+
+<img align="left" src="./profile/repos-per-language.svg" alt="Repos per Language" />
+<img align="left" src="./profile/most-commit-language.svg" alt="Most Commit Language" />
+
+<br clear="left"/>
 
 **অসমৰ বাবে, ভৱিষ্যতৰ বাবে।**
