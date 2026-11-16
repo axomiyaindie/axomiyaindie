@@ -2,7 +2,7 @@ name: Update profile cards
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "17 4 * * *"
   push:
     paths:
       - ".github/workflows/profile-cards.yml"
@@ -16,6 +16,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -46,5 +48,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update profile cards (languages + stats)"
-          git pull --rebase origin main
+          git pull --rebase origin main || true
           git push
