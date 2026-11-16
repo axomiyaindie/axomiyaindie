@@ -33,9 +33,12 @@ jobs:
       - name: Copy cards into profile/
         run: |
           mkdir -p profile
-          if [ -d profile-repository ]; then
-            cp -f profile-repository/*.svg profile/ 2>/dev/null || true
-            rm -rf profile-repository
+          if [ -d profile-summary-card-output ]; then
+            cp -f profile-summary-card-output/*/*.svg profile/
+            rm -rf profile-summary-card-output
+          else
+            echo "ERROR: profile-summary-card-output not found — Action produced no output"
+            exit 1
           fi
 
       - name: Commit profile cards
