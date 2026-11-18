@@ -7,7 +7,7 @@ If you're building something in AI, education, community tech or open source, I'
 
 Building
 
-* AxomiyaGPT(An Wrapper) - AI that understands and speaks proper Assamese.
+* AxomiyaGPT (An Wrapper) - AI that understands and speaks proper Assamese.
 * Education Platform - Equal access to learning resources.
 * Learning Game - Skill-building through play.
 
